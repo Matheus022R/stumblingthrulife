@@ -1,2 +1,2 @@
 # stumblingthrulife
-First Repository
+First repository, learning how to do it.
